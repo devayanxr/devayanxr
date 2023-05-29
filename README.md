@@ -19,7 +19,7 @@ class Devayan():
         self.language = ['हिंदी', 'English', 'বাংলা']
     def programming_languages(self):
         return [
-            'Python', 'SQL', 'Java', 'JavaScript', 'C++', 'C', 'Go', 'PHP'
+            'Python'
         ]
     def markup_languages(self):
         return [
@@ -27,8 +27,7 @@ class Devayan():
         ]
     def developer_tools(self):
         return [
-            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure'
+            'GitHub'
         ]
     def operating_system(self):
         return [
