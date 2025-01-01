@@ -1,7 +1,4 @@
-## Hi there 👋
 
-
----
 ### 👋 Hi, I'm Devayan Das  
 
 Welcome to my GitHub profile! I'm a third-year **Civil Engineering** student at **NIT Agartala**, with a strong interest in **Structural Engineering & Construction Management**, as well as exploring **Data Science** and **Machine Learning/Artificial Intelligence (ML/AI)** for applications in **Geographic Information Systems (GIS)**.  
