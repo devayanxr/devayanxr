@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Here’s a GitHub README profile tailored to your interests and skills:
 
 ---
 ### 👋 Hi, I'm Devayan Das  
