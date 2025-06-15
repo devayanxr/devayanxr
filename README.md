@@ -1,71 +1,81 @@
-# 👋 Hi, I'm Devayan Das
+<h1 align="center">👋 Hi, I'm Devayan Das</h1>
 
-🎓 Final Year B.Tech Student | 📊 Aspiring Data & Finance Analyst  
-🌏 Dreaming Big. Learning Smart. Working Hard.  
+<p align="center">
+  🎓 Final Year B.Tech Student (Civil Engineering) <br>
+  📊 Aspiring Data & Finance Analyst | 🧮 Forecasting Enthusiast | 🇯🇵 Japan Career Dreamer <br>
+  🌱 Learning Daily | 💼 Preparing for ISI MSQE + Analyst Roles
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devayanxr&label=Profile+Views" alt="profile views"/>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m currently pursuing B.Tech in Civil Engineering and preparing for a transition into the world of **Data Science**, **Quantitative Economics**, and **Financial Analytics**. My core interest lies in applying data-driven insights to real-world economic and business problems—whether it's forecasting inflation or evaluating credit risk.
+I’m currently building a bridge from my Civil Engineering background into the world of **Data Science**, **Quantitative Economics**, and **Financial Analytics**.
 
-I'm building strong foundations in:
-
-- 📈 **Time Series Forecasting**
-- 🧮 **Econometrics & Quantitative Finance**
-- 🗃️ **SQL & Relational Databases**
-- 🧑‍💻 **Python for Data Science & Analytics**
-- 🌐 **Business Intelligence (BI) Tools**
-
-I'm also preparing independently for the **ISI MSQE** program and analyst roles at top firms like **Deloitte, KPMG, EY, and PWC**.
+🔹 Preparing independently for **ISI MSQE (M.S. in Quantitative Economics)**  
+🔹 Working on real-world projects using **Python**, **SQL**, and **time series forecasting**  
+🔹 Targeting **top analyst roles** (e.g., Deloitte, KPMG, EY, PWC)  
+🔹 Dreaming long-term of a career and life in **Japan**
 
 ---
 
-## 🧩 Projects & Work-in-Progress
+## 🧩 Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Credit Card Validator](https://github.com/devayanxr/credit-card-validator) | Validates card numbers using the Luhn algorithm | Python |
-| Forecasting CPI in India *(WIP)* | Building a pipeline to forecast inflation using CPI data | Python, Pandas, Time Series, RBI DBIE |
-| SQL Query Practice *(WIP)* | Learning and practicing SQL for real-world analytics | PostgreSQL, DBeaver |
-
----
-
-## 🚀 My Current Goals (2025)
-
-- 🧠 Master core **Data Analysis** and **Econometrics** skills  
-- 📚 Build projects inspired by **MSQE-level** work  
-- 🌍 Secure an **analyst role** at Deloitte or similar as a launchpad  
-- 🇯🇵 Eventually move to **Japan**, build a career, and support my family  
-- 💼 Explore remote/freelance options in financial or data analytics  
+| Project | Description | Status | Tech |
+|--------|-------------|--------|------|
+| [🔐 Credit Card Validator](https://github.com/devayanxr/credit-card-validator) | Validates card numbers using the Luhn algorithm | ✅ Completed | Python |
+| 🧾 Forecasting CPI in India | Forecasting inflation using RBI DBIE data | 🛠️ WIP | Python, Pandas, Statsmodels |
+| 🗃️ SQL Query Practice | Hands-on SQL with DBeaver and PostgreSQL | 🛠️ WIP | SQL, PostgreSQL, DBeaver |
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills & Tools
 
-- **Languages**: Python, SQL, Markdown  
+- **Languages**: Python, SQL  
 - **Data Tools**: Pandas, NumPy, scikit-learn, Statsmodels  
-- **DB & Cloud**: PostgreSQL, DBeaver, Google Colab  
+- **DB & IDEs**: PostgreSQL, DBeaver, Google Colab  
 - **Version Control**: Git, GitHub  
-- **Learning Platforms**: MIT OCW, QuantEcon, freeCodeCamp  
+- **Learning Sources**: MIT OCW, QuantEcon, FreeCodeCamp, DataCamp
 
 ---
 
-## 📚 Learning Journey
+## 🎯 2025 Roadmap
 
-🧾 I document my progress through hands-on projects and structured roadmaps.  
-Follow my journey as I go from Civil Engineering student to Analyst, and beyond.
-
----
-
-## 📬 Connect with Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/devayan-das/)  
-- 📫 Email: devayandas884@gmail.com  
-- 📝 My Project Notes (Coming soon: Notion pages on Data, Finance, and Career)
+- 📌 Complete my forecasting & SQL projects  
+- 🎓 Get placed in a top analytics or consulting firm  
+- 📊 Master data modeling, BI, and econometrics  
+- 🌏 Build a career that can lead to working in **Japan**  
+- 🧠 Keep learning — daily progress, consistent projects
 
 ---
 
-> _"Discipline beats motivation. Small steps, daily."_  
-> — Let's build something valuable, one repo at a time.
+## 📬 Let’s Connect
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/devayan-das)  
+- 📧 Email: devayanxr@gmail.com  
+- 📝 Notion Learning Pages – Coming Soon!
+
+---
+
+## 🧭 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devayanxr&show_icons=true&theme=tokyonight" alt="Devayan's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayanxr&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📌 Motivation
+
+> _"Discipline beats motivation.  
+> Small steps every day lead to big change."_  
+
+—
+
+🌟 *Thanks for visiting my profile — I’m just getting started. Follow along as I learn, build, and grow.* 🌟
