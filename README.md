@@ -1,73 +1,71 @@
+# 👋 Hi, I'm Devayan Das
 
-### 👋 Hi, I'm Devayan Das  
-
-Welcome to my GitHub profile! I'm a third-year **Civil Engineering** student at **NIT Agartala**, with a strong interest in **Structural Engineering & Construction Management**, as well as exploring **Data Science** and **Machine Learning/Artificial Intelligence (ML/AI)** for applications in **Geographic Information Systems (GIS)**.  
-
----
-
-### 🌱 What I'm Learning  
-- **Python** 🐍  
-- **Data Analysis** 📊  
-- **Machine Learning and AI** 🤖  
-- Exploring their integration with **GIS technologies** to address real-world civil engineering challenges.  
-
----
-<!-- 
-### 🏗️ Projects  
-- **Electrokinetics in Stone Column Encased by Conductive Geotextile**  
-  *Assessing the performance and soft soil response in collaboration with IIT Kanpur.*  
-- **Cost Estimation for RCC and Steel in Construction**  
-  *A comprehensive study on materials required for foundations, staircases, beams, and slabs.*  
--->
-
-### 🎯 Goals  
-- Enhance my **coding skills** to analyze and visualize civil engineering data effectively.  
-- Develop innovative GIS-based solutions for challenges in **urban planning** and **infrastructure development**.  
-- Collaborate on interdisciplinary projects combining **engineering expertise** with **data science methodologies**.  
+🎓 Final Year B.Tech Student | 📊 Aspiring Data & Finance Analyst  
+🌏 Dreaming Big. Learning Smart. Working Hard.  
 
 ---
 
-### 💻 Tools and Technologies  
-- **Programming**: Python, MATLAB, SQL  
-- **GIS**: QGIS 
-- **Data Visualization**: Matplotlib, Seaborn  
-- **Software**: Excel, Blender (for 3D modeling and animation)  
+## 🧠 About Me
+
+I’m currently pursuing B.Tech in Civil Engineering and preparing for a transition into the world of **Data Science**, **Quantitative Economics**, and **Financial Analytics**. My core interest lies in applying data-driven insights to real-world economic and business problems—whether it's forecasting inflation or evaluating credit risk.
+
+I'm building strong foundations in:
+
+- 📈 **Time Series Forecasting**
+- 🧮 **Econometrics & Quantitative Finance**
+- 🗃️ **SQL & Relational Databases**
+- 🧑‍💻 **Python for Data Science & Analytics**
+- 🌐 **Business Intelligence (BI) Tools**
+
+I'm also preparing independently for the **ISI MSQE** program and analyst roles at top firms like **Deloitte, KPMG, EY, and PWC**.
 
 ---
 
-### 📫 Let's Connect  
-- **Email**: devayandas884@gmail.com
+## 🧩 Projects & Work-in-Progress
 
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/d3vayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d3vayan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devayan-das-52211b24b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devayan-das-52211b24b" height="30" width="40" /></a>
-<a href="https://kaggle.com/devayandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devayandas" height="30" width="40" /></a>
-</p>
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
- <!--
- <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Credit Card Validator](https://github.com/devayanxr/credit-card-validator) | Validates card numbers using the Luhn algorithm | Python |
+| Forecasting CPI in India *(WIP)* | Building a pipeline to forecast inflation using CPI data | Python, Pandas, Time Series, RBI DBIE |
+| SQL Query Practice *(WIP)* | Learning and practicing SQL for real-world analytics | PostgreSQL, DBeaver |
 
- <!--
 ---
 
-Feel free to explore my repositories and share your thoughts! I'm always open to collaborations and discussions. 🚀  
+## 🚀 My Current Goals (2025)
 
---- 
+- 🧠 Master core **Data Analysis** and **Econometrics** skills  
+- 📚 Build projects inspired by **MSQE-level** work  
+- 🌍 Secure an **analyst role** at Deloitte or similar as a launchpad  
+- 🇯🇵 Eventually move to **Japan**, build a career, and support my family  
+- 💼 Explore remote/freelance options in financial or data analytics  
 
-Let me know if you'd like to customize this further!**devayanxr/devayanxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, SQL, Markdown  
+- **Data Tools**: Pandas, NumPy, scikit-learn, Statsmodels  
+- **DB & Cloud**: PostgreSQL, DBeaver, Google Colab  
+- **Version Control**: Git, GitHub  
+- **Learning Platforms**: MIT OCW, QuantEcon, freeCodeCamp  
+
+---
+
+## 📚 Learning Journey
+
+🧾 I document my progress through hands-on projects and structured roadmaps.  
+Follow my journey as I go from Civil Engineering student to Analyst, and beyond.
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/devayan-das/)  
+- 📫 Email: devayandas884@gmail.com  
+- 📝 My Project Notes (Coming soon: Notion pages on Data, Finance, and Career)
+
+---
+
+> _"Discipline beats motivation. Small steps, daily."_  
+> — Let's build something valuable, one repo at a time.
+
