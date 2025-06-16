@@ -79,8 +79,12 @@ I’m currently transitioning from a Civil Engineering background into the world
 
 ## 📌 Motivation
 
-> _"Discipline beats motivation.  
-> Small steps every day lead to big change."_  
+> _"Success is the ability to go from one failure to another with no loss of enthusiasm."_  
+> — Winston Churchill
+
+—
+
+🌟 *Thanks for visiting my profile — I’m just getting started. Follow along as I learn, build, and grow.* 🌟
 
 —
 
