@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Final Year B.Tech Student (Civil Engineering) <br>
-  📊 Aspiring Data & Finance Analyst | 🧮 Forecasting Enthusiast | 🇯🇵 Japan Career Dreamer <br>
+  📊 Aspiring Data & Finance Analyst | 🧮 Forecasting Enthusiast <br>
   🌱 Learning Daily | 💼 Preparing for ISI MSQE + Analyst Roles
 </p>
 
@@ -14,12 +14,12 @@
 
 ## 🧠 About Me
 
-I’m currently building a bridge from my Civil Engineering background into the world of **Data Science**, **Quantitative Economics**, and **Financial Analytics**.
+I’m currently transitioning from a Civil Engineering background into the world of **Data Science**, **Quantitative Economics**, and **Financial Analytics**.
 
 🔹 Preparing independently for **ISI MSQE (M.S. in Quantitative Economics)**  
-🔹 Working on real-world projects using **Python**, **SQL**, and **time series forecasting**  
-🔹 Targeting **top analyst roles** (e.g., Deloitte, KPMG, EY, PWC)  
-🔹 Dreaming long-term of a career and life in **Japan**
+🔹 Working on real-world projects involving **Python**, **SQL**, and **Time Series Forecasting**  
+🔹 Targeting **top analyst roles** at consulting and analytics firms  
+🔹 Focused on building strong, practical, and impactful skill sets in data
 
 ---
 
@@ -33,23 +33,28 @@ I’m currently building a bridge from my Civil Engineering background into the 
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧰 Tech Stack
 
-- **Languages**: Python, SQL  
-- **Data Tools**: Pandas, NumPy, scikit-learn, Statsmodels  
-- **DB & IDEs**: PostgreSQL, DBeaver, Google Colab  
-- **Version Control**: Git, GitHub  
-- **Learning Sources**: MIT OCW, QuantEcon, FreeCodeCamp, DataCamp
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 🎯 2025 Roadmap
 
-- 📌 Complete my forecasting & SQL projects  
-- 🎓 Get placed in a top analytics or consulting firm  
-- 📊 Master data modeling, BI, and econometrics  
-- 🌏 Build a career that can lead to working in **Japan**  
-- 🧠 Keep learning — daily progress, consistent projects
+- 📌 Complete and document practical data & forecasting projects  
+- 🎓 Secure a role in analytics or consulting  
+- 📊 Master econometrics, SQL, and modeling workflows  
+- 📁 Build a strong portfolio of impactful, industry-relevant work  
+- 🧠 Keep learning — daily progress, consistent improvement
 
 ---
 
@@ -64,9 +69,9 @@ I’m currently building a bridge from my Civil Engineering background into the 
 ## 🧭 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devayanxr&show_icons=true&theme=tokyonight" alt="Devayan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devayanxr&show_icons=true&theme=default&hide_border=false&bg_color=00000000" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayanxr&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayanxr&theme=default" />
 </p>
 
 ---
