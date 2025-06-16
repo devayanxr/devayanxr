@@ -60,9 +60,10 @@ I’m currently transitioning from a Civil Engineering background into the world
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn] ((https://www.linkedin.com/in/devayan-das-52211b24b/))  
-- 📧 Email: devayandas884@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/devayan-das-52211b24b/)
+- 📧 Email: [devayandas884@gmail.com](mailto:devayandas884@gmail.com)
 - 📝 Notion Learning Pages – Coming Soon!
+
 
 ---
 
