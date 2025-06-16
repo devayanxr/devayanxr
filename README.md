@@ -86,6 +86,3 @@ I’m currently transitioning from a Civil Engineering background into the world
 
 🌟 *Thanks for visiting my profile — I’m just getting started. Follow along as I learn, build, and grow.* 🌟
 
-—
-
-🌟 *Thanks for visiting my profile — I’m just getting started. Follow along as I learn, build, and grow.* 🌟
